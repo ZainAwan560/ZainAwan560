@@ -239,27 +239,9 @@ I'm currently open to:
 
 ---
 
-## 🧠 Developer Mindset
+## 🧠 My Development Philosophy
 
-<div align="center">
-
-```text
-             LEARN
-               ↓
-             BUILD
-               ↓
-             BREAK
-               ↓
-             DEBUG
-               ↓
-            IMPROVE
-               ↓
-             REPEAT
-               ↓
-             🚀 GROW
-```
-
-</div>
+> **Write clean code. Solve real problems. Keep learning. Build better.**
 
 ---
 
