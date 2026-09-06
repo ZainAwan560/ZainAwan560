@@ -1,227 +1,280 @@
-<div align="center">
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=230&section=header&text=Zain%20Awan&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Future%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=twinkling" width="100%" />{=html}
+:::
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Zain%20Awan&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Future%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+<br>{=html}
 
-<br>
+<table>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding Animation" />
+<tr>
 
-<br><br>
+<td width="45%" align="center">
 
-<h1>👋 Hi, I'm Zain Awan</h1>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding Animation" />{=html}
 
-<h3>💻 Frontend Developer → Full-Stack Developer</h3>
+<br>{=html}<br>{=html}
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Learning+Backend+Development;Future+Full-Stack+Developer;Building+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=420&lines=while(alive)+%7B+code();+%7D;console.log(%22Building...%22);;npm+run+learn;git+commit+-m+%22Keep+Growing%22;Developer+Mode:+ON+%F0%9F%9A%80" alt="Developer Animation" />{=html}
 
-<br><br>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=ZainAwan560&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<td width="55%" align="center">
 
-</div>
+<h1>
 
----
+👋 Hi, I'm Zain Awan
 
-## 👨‍💻 About Me
+</h1>
 
-Hi! I'm **Zain Awan**, a passionate **Frontend Developer** currently growing into a **Full-Stack Developer**.
+<h3>
 
-🚀 Around **1 year of hands-on coding experience**
+💻 Frontend Developer → Full-Stack Developer
 
-💻 Focused on building modern and responsive web experiences
+</h3>
 
-⚛️ Currently working with **React.js**
+<br>{=html}
 
-📚 Currently learning **Backend Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React.js+Developer;JavaScript+Developer;Learning+Backend;Future+Full-Stack+Developer;Building+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing Animation" />{=html}
 
-🎯 My goal is to become a professional **Full-Stack Developer**
+<br>{=html}<br>{=html}
+
+<img src="https://komarev.com/ghpvc/?username=ZainAwan560&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />{=html}
+
+</td>
+
+</tr>
+
+</table>
+
+<br>{=html}
+
+::: {align="center"}
+
+<h2>
+
+🧠 Developer Mindset
+
+</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Turning+Ideas+Into+Real+Web+Experiences;Learning+Today+%7C+Building+Tomorrow;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80" alt="Developer Mindset" />{=html}
+:::
+
+👨‍💻 About Me
+
+Hi! I'm Zain Awan, a passionate Frontend Developer currently
+growing into a Full-Stack Developer.
+
+🚀 Around 1 year of hands-on coding experience
+
+💻 Focused on modern and responsive Frontend Development
+
+⚛️ Building interfaces with React.js
+
+🟨 Working with JavaScript
+
+📚 Currently learning Backend Development
+
+🎯 Working towards becoming a professional Full-Stack Developer
 
 🛠️ I enjoy turning ideas into functional and user-friendly websites
 
-💼 **Open to work, freelance opportunities & collaborations**
+💼 Open to work, freelance opportunities & collaborations
 
 🌱 Always learning, building and improving
 
-> 💡 **Build. Learn. Improve. Repeat.**
+💡 Build. Learn. Improve. Repeat.
 
----
+⚡ Currently Coding
 
-## ⚡ Currently Coding
+::: {align="center"}
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" alt="Developer Working Animation" />{=html}
 
-<div align="center">
+<br>{=html}<br>{=html}
 
-```text
 ┌──────────────────────────────────────────────┐
-│                                              │
 │   ZAIN@DEV ~ $ whoami                        │
 │                                              │
 │   > Frontend Developer                       │
 │   > React.js Developer                       │
+│   > JavaScript Developer                     │
 │   > Learning Backend                         │
 │   > Becoming Full-Stack                      │
 │                                              │
 │   STATUS : ● ONLINE                          │
 │   MODE   : 🚀 BUILDING                       │
-│                                              │
 └──────────────────────────────────────────────┘
-```
 
-</div>
+:::
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+🎨 Frontend Development
 
-### 🎨 Frontend Development
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend Technologies" />{=html}
+:::
 
-<div align="center">
+<br>{=html}
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
+🔧 Tools & Workflow
 
-</div>
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Development Tools" />{=html}
+:::
 
-<br>
+<br>{=html}
 
-### 🔧 Tools & Technologies
+🔭 Currently Learning --- Backend
 
-<div align="center">
+::: {align="center"}
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Technologies" />{=html}
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools" />
+<br>{=html}<br>{=html}
 
-</div>
+Node.js • Express.js • MongoDB
+:::
 
-<br>
+🚀 Featured Projects
 
-### 🔭 Currently Learning — Backend
+<table>
 
-<div align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+<td width="33%" align="center">
 
-</div>
+💰 Budgeting App
 
-<div align="center">
+A practical budgeting application focused on clean UI, functionality and
+useful user interactions.
 
-`Node.js` • `Express.js` • `MongoDB`
+HTML • CSS • JavaScript
 
-</div>
+</td>
 
----
+<td width="33%" align="center">
 
-## 🚀 Featured Projects
+🏢 Maintain IQ
 
-<div align="center">
+A modern web project focused on clean interface design and practical
+functionality.
 
-### 💰 Budgeting App
+HTML • CSS • JavaScript • React
 
-A practical budgeting application focused on clean UI, functionality and user interaction.
+</td>
 
-**HTML • CSS • JavaScript**
+<td width="33%" align="center">
 
-<br>
+🛋️ Furniture Website
 
-### 🏢 Maintain IQ
+A responsive furniture/e-commerce style website focused on layout,
+responsiveness and user experience.
 
-A modern web project focused on a clean interface and practical functionality.
+HTML • CSS • JavaScript • React
 
-**HTML • CSS • JavaScript • React**
+</td>
 
-<br>
+</tr>
 
-### 🛋️ Furniture Website
+</table>
 
-A responsive furniture/e-commerce style website built with a strong focus on layout, responsiveness and user experience.
+::: {align="center"}
+⭐ More projects are available in my repositories
+:::
 
-**HTML • CSS • JavaScript • React**
+📊 GitHub Analytics
 
-</div>
+::: {align="center"}
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ZainAwan560&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Zain's GitHub Stats" />{=html}
 
-<br>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAwan560&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />{=html}
 
-<div align="center">
+<br>{=html}<br>{=html}
 
-⭐ **More projects available in my repositories**
+<img src="https://streak-stats.demolab.com?user=ZainAwan560&theme=tokyonight&hide_border=true" alt="GitHub Streak" />{=html}
+:::
 
-</div>
+🏆 GitHub Trophies
 
----
+::: {align="center"}
+<img src="https://github-profile-trophy.vercel.app/?username=ZainAwan560&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />{=html}
+:::
 
-## 📊 GitHub Analytics
+📈 Contribution Activity
 
-<div align="center">
+::: {align="center"}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainAwan560&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />{=html}
+:::
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZainAwan560&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Zain's GitHub Stats" />
+🐍 Contribution Snake
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAwan560&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
+::: {align="center"}
+<img src="https://raw.githubusercontent.com/ZainAwan560/ZainAwan560/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />{=html}
+:::
 
-<br><br>
+🎯 2026 Goals
 
-<img src="https://streak-stats.demolab.com?user=ZainAwan560&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+::: {align="center"}
+Goal                                Status
 
-</div>
+HTML & CSS                          ✅ Completed
+JavaScript                          ✅ Completed
+React.js                            🚀 Building
+Backend Development                 🔄 Learning
+Node.js                             🔄 Learning
+MongoDB                             🔄 Learning
+Full-Stack Development              🎯 In Progress
+Real-World Applications             🚀 Building
+Professional Full-Stack Developer   🔭 Future Goal
+:::
 
----
+⚡ What I'm Working On
 
-## 🏆 GitHub Trophies
+::: {align="center"}
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZainAwan560&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainAwan560&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ZainAwan560/ZainAwan560/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
-</div>
-
----
-
-## 🎯 My Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| HTML & CSS | ✅ Completed |
-| JavaScript | ✅ Completed |
-| React.js | 🚀 Building |
-| Backend Development | 🔄 Learning |
-| Full-Stack Development | 🎯 In Progress |
-| Real-World Applications | 🚀 Building |
-| Professional Full-Stack Developer | 🔭 Future Goal |
-
-</div>
-
----
-
-## ⚡ What I'm Working On
-
-```text
 Frontend Development   ████████████████████  Strong Focus
 React.js               ████████████████░░░░  Growing
+JavaScript             ███████████████████░  Strong
 Backend Development    ██████████░░░░░░░░░░  Learning
 Full-Stack Development ████████░░░░░░░░░░░░  Building
-```
 
----
+:::
 
-## 💼 Open to Opportunities
+🧩 My Development Workflow
+
+::: {align="center"}
+
+💡 IDEA
+   ↓
+📝 PLAN
+   ↓
+💻 CODE
+   ↓
+🧪 TEST
+   ↓
+🐛 DEBUG
+   ↓
+🚀 DEPLOY
+   ↓
+📈 IMPROVE
+
+:::
+
+🧠 My Development Philosophy
+
+::: {align="center"}
+
+"Don't just write code --- understand it."
+
+<br>{=html}
+
+Learn → Practice → Build → Break → Debug → Improve
+
+<br>{=html}
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+experience+%F0%9F%92%BB;Every+day+is+a+chance+to+improve+%F0%9F%9A%80" alt="Developer Philosophy Animation" />{=html}
+:::
+
+💼 Open to Opportunities
 
 I'm currently open to:
 
@@ -237,38 +290,31 @@ I'm currently open to:
 
 📚 Learning opportunities
 
----
+📫 Let's Connect
 
-## 🧠 My Development Philosophy
+::: {align="center"}
+<a href="https://github.com/ZainAwan560">{=html}
+<img src="https://img.shields.io/badge/GitHub-ZainAwan560-181717?style=for-the-badge&logo=github" alt="GitHub" />{=html}
+</a>{=html}
 
-> **Write clean code. Solve real problems. Keep learning. Build better.**
+<br>{=html}<br>{=html}
 
----
+<a href="https://zaindeveloperportfolio.vercel.app/">{=html}
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />{=html}
+</a>{=html}
+:::
 
-## 📫 Let's Connect
+::: {align="center"}
 
-<div align="center">
+💙 Thanks for visiting my profile!
 
-<a href="https://github.com/ZainAwan560">
-<img src="https://img.shields.io/badge/GitHub-ZainAwan560-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Closing Animation" />{=html}
 
-</div>
+<br>{=html}
 
-<br>
+⭐ Keep Learning • Keep Building • Keep Growing 🚀
 
-<div align="center">
+<br>{=html}<br>{=html}
 
-### 💙 Thanks for visiting my profile!
-
-### ⭐ Keep Learning • Keep Building • Keep Growing 🚀
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=140&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=150&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />{=html}
+:::
